@@ -1,5 +1,5 @@
 # server-performance-stats
-A script that prints basic Linux server performance stats:
+A script that prints basic Linux server performance stats (https://roadmap.sh/projects/server-stats):
 <ul>
   <li>Total CPU usage</li>
   <li>Total memory usage (Free vs Used including percentage)</li>
